@@ -1,0 +1,15 @@
+.li-container {
+  margin: 12px;
+}
+.language-btn {
+  border: 1px solid #db1c48;
+  color: #db1c48;
+  padding: 12px;
+  border-radius: 15px;
+  background: transparent;
+  cursor: pointer;
+}
+.active-tab {
+  background-color: #db1c48;
+  color: #ffffff;
+}
